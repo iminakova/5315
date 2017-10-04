@@ -1,54 +1,6 @@
 {
   "data": [
     {
-      "name": "Chandler Bing",
-      "designation": "Data Processor",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "New York",
-      "extension": "8422"
-    },
-    {
-      "name": "Monica Geller",
-      "designation": "Chef",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
-    },
-    {
-      "name": "Joey Tribbiani",
-      "designation": "Actor",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "New York",
-      "extension": "1562"
-    },
-    {
-      "name": "Rachel Greene",
-      "designation": "Assistant Buyer",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "New York",
-      "extension": "5407"
-    },
-    {
-      "name": "Phoebe Buffay",
-      "designation": "Masseuse",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
-    },
-    {
-      "name": "Ross Geller",
-      "designation": "Paleontologist",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "New York",
-      "extension": "6373"
-    },
-    {
       "name": "Michael Scott",
       "designation": "Regional Manager",
       "salary": "$433,060",
