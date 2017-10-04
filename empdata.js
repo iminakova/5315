@@ -65,7 +65,7 @@
       "extension": "3597"
     },
     {
-      "name": "Colleen Hurst",
+      "name": "Jane Smith",
       "designation": "Javascript Developer",
       "salary": "$205,500",
       "joining_date": "2009/09/15",
