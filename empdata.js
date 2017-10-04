@@ -71,6 +71,12 @@
       "joining_date": "2013/03/03",
       "office": "New York",
       "extension": "9497"
-    }
+    },
+    {"name": "Bob Vance",
+      "designation": "Vance Refrigeration",
+      "salary": "$342,000",
+      "joining_date": "2013/03/03",
+      "office": "Scranton",
+      "extension": "3856"}
   ]
 }
